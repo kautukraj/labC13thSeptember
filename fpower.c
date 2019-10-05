@@ -9,6 +9,6 @@ void main()
 {
 int x,y;
 printf("Enter the values of x and y : ");
-scanf("%i%i",&x, &y);
+scanf("%d%d",&x, &y);
 printf("x to the power y : %i",power(x,y));
 }
