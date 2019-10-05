@@ -14,3 +14,4 @@ printf("Enter the number : ");
 scanf("%i",&n);
 printf("Factorial : %i",fact(n));
 }
+// try it using recursion
