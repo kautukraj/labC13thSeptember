@@ -14,4 +14,12 @@ printf("Enter the number : ");
 scanf("%i",&n);
 printf("Factorial : %i",fact(n));
 }
-// try it using recursion
+/* Using recursion the function fact becomes -
+int fact(int n1)
+{
+if(n1>=1)
+return n1*fact(n1-1);
+else
+return 1;
+}
+*/
